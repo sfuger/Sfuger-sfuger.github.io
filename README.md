@@ -1,2 +1,2 @@
-# Sfuger-sfuger.github.io
+# sfuger.github.io
 CNIT131H
